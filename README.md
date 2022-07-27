@@ -5,7 +5,7 @@ Hi Welcome to jenkins:
 ------------------------
 Prerequisite sw:
 Maven
-java
+java..
 docker
 git
 
